@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "petster": "apps/petster",
+    "petster-e2e": "apps/petster-e2e"
+  }
+}
