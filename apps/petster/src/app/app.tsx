@@ -1,13 +1,9 @@
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import styles from './app.module.css';
-import NxWelcome from './nx-welcome';
 
 export function App() {
   return (
-    <>
-      <NxWelcome title="petster" />
-      <div></div>
-    </>
+      <h1>Hello <span role="img" aria-label='wave-emoji'>👋</span></h1>
   );
 }
 
